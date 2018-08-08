@@ -1,0 +1,15 @@
+{
+  "name": "f8dwiki",
+  "description": "parse-server for f8dwiki",
+  "scripts": {
+    "start": "concurrently \"parse-server config.json\" \"parse-dashboard --config parse-dashboard-config.json\""
+  },
+  "dependencies": {
+    "parse-server": "^2.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^3.6.1",
+    "mongodb-runner": "^4.0.0",
+    "parse-dashboard": "^1.2.0"
+  }
+}

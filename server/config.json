@@ -1,0 +1,7 @@
+{
+  "appId": "9lvrQuCYRXSZVdpkqIhmrwu8ozYkLZyv3ewrJGmv",
+  "masterKey": "cakXMw0ffge2DWO6uumIxI3dQbWQJc3Ar3i3ongK",
+  "appName": "FrightenedWiki",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
