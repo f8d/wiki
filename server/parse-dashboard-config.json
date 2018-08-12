@@ -2,7 +2,7 @@
   "apps": [
     {
       "serverURL": "http://localhost:1337/parse",
-      "appId": "9lvrQuCYRXSZVdpkqIhmrwu8ozYkLZyv3ewrJGmv",
+      "appId": "devonly",
       "masterKey": "cakXMw0ffge2DWO6uumIxI3dQbWQJc3Ar3i3ongK",
       "appName": "FrightenedWiki"
     }
